@@ -1,0 +1,4 @@
+com\mycompany\ems\EmsApplicationTests.class
+com\mycompany\ems\services\ServiceTest.class
+com\mycompany\ems\controllers\IntergrationTests.class
+com\mycompany\ems\SmokeTest.class
